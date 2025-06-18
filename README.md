@@ -1,3 +1,3 @@
 # ScopeX
 
-Kindly read the Installation_manual PDF and setup the application 
+Kindly read the Installation_Manual PDF and setup the application 
