@@ -1,28 +1,66 @@
-# ScopeX
+# 🚀 ScopeX – Electronics at Home  
+*by Bumblebee Instruments*
 
-Kindly read the `Installation_Manual.pdf` and set up the application.
+ScopeX is a lightweight desktop oscilloscope interface designed to help students, hobbyists, and professionals visualize and analyze electrical signals with ease.
 
 ---
-## 📘 ScopeX Installation Manual
 
-👉 [Click here to view/download the Installation Manual (PDF)](https://grqnwxkdbsgronwggehy.supabase.co/storage/v1/object/public/bumblebee/files/scope-x-manual-1751400839371.pdf)
+## 📘 Documentation
+
+Before installation, please refer to the official manual:
+
+👉 [**View Installation Manual (PDF)**](https://grqnwxkdbsgronwggehy.supabase.co/storage/v1/object/public/bumblebee/files/scope-x-manual-1751400839371.pdf)
+
+---
 
 ## 🔽 Downloads
 
+### Stable Release
+
 - [📦 Download Drivers.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/Drivers.zip)  
-  Includes drivers required for ScopeX
+  Includes all required USB drivers for ScopeX.
 
 - [📁 Download Application as ZIP](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/archive/refs/heads/main.zip)  
-  This will download the application
+  Full ScopeX application (including executable and dependencies).
+
+---
+
+### 🧪 Beta Release – Qt GUI *(Under Development)*
+
+We are working on a new cross-platform GUI using Qt.  
+Regular beta updates will be provided every **1–2 weeks**.
+
+👉 [🔗 Download Latest Qt GUI Beta (.zip)](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/latest)  
+_This is a work-in-progress preview of the next-generation interface._
+
+> 💡 Beta releases will be managed under the [Releases](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases) section of this repository.  
+> Check back often for updates!
 
 ---
 
 ## 📄 Files in this Repository
 
-| File Name              | Description                                |
-|------------------------|--------------------------------------------|
-| `Aj_Scope.exe`         | Main ScopeX application executable         |
-| `Drivers.zip`          | USB drivers for ScopeX                     |
-| `Installation_Manual.pdf`| Instructions to install and run ScopeX   |
-| `ZedGraph.dll`         | Dependency for graph rendering             |
-| `README.md`            | Project overview and download links        |
+| File Name                | Description                                      |
+|--------------------------|--------------------------------------------------|
+| `Aj_Scope.exe`           | Main ScopeX application executable               |
+| `Drivers.zip`            | USB drivers required for ScopeX hardware         |
+| `Installation_Manual.pdf`| Step-by-step installation & usage instructions   |
+| `ZedGraph.dll`           | Graphing library used for waveform rendering     |
+| `README.md`              | Project overview and download links              |
+
+---
+
+## 🛠️ Contributing & Feedback
+
+We welcome feedback and contributions from the community.  
+If you find issues or have suggestions, please open an [Issue](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/issues) or submit a [Pull Request](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/pulls).
+
+---
+
+## 📬 Contact
+
+For business inquiries or support, contact **Bumblebee Instruments** at:  
+📧 bumblebee.instruments@gmail.com  
+🌐 [www.bumblebee-instruments.com](https://www.bumblebeeinstruments.in) _(if available)_
+
+---
