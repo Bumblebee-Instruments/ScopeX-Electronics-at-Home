@@ -61,6 +61,6 @@ If you find issues or have suggestions, please open an [Issue](https://github.co
 
 For business inquiries or support, contact **Bumblebee Instruments** at:  
 📧 instruments.bumblebee@gmail.com  
-🌐 [www.bumblebee-instruments.com](https://www.bumblebeeinstruments.in) _(if available)_
+🌐 [www.bumblebee-instruments.com](https://www.bumblebeeinstruments.in)
 
 ---
