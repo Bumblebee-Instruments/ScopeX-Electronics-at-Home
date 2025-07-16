@@ -60,7 +60,7 @@ If you find issues or have suggestions, please open an [Issue](https://github.co
 ## 📬 Contact
 
 For business inquiries or support, contact **Bumblebee Instruments** at:  
-📧 bumblebee.instruments@gmail.com  
+📧 instruments.bumblebee@gmail.com  
 🌐 [www.bumblebee-instruments.com](https://www.bumblebeeinstruments.in) _(if available)_
 
 ---
