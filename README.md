@@ -15,7 +15,7 @@ Before installation, please refer to the official manual:
 
 ## 🔽 Downloads
 
-### Stable Release
+### Stable Release Version 2 is now available. 
 
 - [📦 Download Drivers.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/Drivers.zip)  
   Includes all required USB drivers for ScopeX.
