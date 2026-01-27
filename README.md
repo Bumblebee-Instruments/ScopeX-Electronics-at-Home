@@ -10,7 +10,7 @@ ScopeX is a lightweight desktop oscilloscope interface designed to help students
 Before installation, please refer to the official manual:
 
 👉 **[View Installation Manual (PDF)]**  
-https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/ScopeXVB.NET/Installation_Manual.pdf
+https://raw.githubusercontent.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/main/ScopeXVB.NET/Installation_Manual.pdf
 
 ---
 
@@ -20,42 +20,36 @@ https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/Sco
 
 This is the **recommended stable version** for Windows users.
 
-- 📦 **USB Drivers**  
-  https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/ScopeXVB.NET/Drivers.zip  
+👉 **Download Full VB.NET Package (ZIP)**  
+https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/latest
 
-- 🖥️ **ScopeX VB.NET Application (Windows)**  
-  https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/ScopeXVB.NET/Aj_Scope.exe  
-
-- 📁 **Download Full VB.NET Package (ZIP)**  
-  https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/archive/refs/heads/main.zip  
-  > After extracting, navigate to `ScopeXVB.NET/`
+> The release package contains:
+> - `Aj_Scope.exe`
+> - `Drivers.zip`
+> - `Installation_Manual.pdf`
+> - `ZedGraph.dll`
 
 ---
 
 ## 🧪 Beta Release – Qt GUI (Cross-Platform)
 
-We are developing a **next-generation ScopeX GUI using Qt**, with support for multiple operating systems.
+We are developing a **next-generation ScopeX GUI using Qt**.
 
 ### 🪟 Qt – Windows (Beta)
 📂 Folder: `QT-Windows/`
 
-👉 **Latest Windows Qt Beta**  
-https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/latest
-
----
-
 ### 🐧 Qt – Linux (Beta)
 📂 Folder: `QT-Linux/`
 
-👉 **Latest Linux Qt Beta**  
+👉 **Latest Qt Beta Releases**  
 https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/latest
 
-> 🔄 Beta builds are updated every **1–2 weeks**  
-> ⚠️ These are work-in-progress previews and may contain bugs
+> 🔄 Updated every **1–2 weeks**  
+> ⚠️ Beta software may contain bugs
 
-💡 **Important:**  
-Please ignore the auto-generated **“Source code (zip / tar.gz)”** files shown by GitHub.  
-Only the attached binaries/assets in the release are valid ScopeX builds.
+💡 **Note:**  
+Please ignore GitHub’s auto-generated **“Source code (zip / tar.gz)”** files.  
+Only the uploaded release assets are official ScopeX builds.
 
 ---
 
@@ -72,18 +66,15 @@ Only the attached binaries/assets in the release are valid ScopeX builds.
 
 ## 🛠️ Contributing & Feedback
 
-We welcome feedback and contributions from the community.
+We welcome feedback and contributions.
 
-If you encounter issues or have feature requests:
-- 🐞 Open an [Issue](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/issues)
-- 🔧 Submit a [Pull Request](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/pulls)
+- 🐞 [Report an Issue](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/issues)
+- 🔧 [Submit a Pull Request](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/pulls)
 
 ---
 
 ## 📬 Contact
 
-For business inquiries or support, contact **Bumblebee Instruments**  
+**Bumblebee Instruments**  
 📧 instruments.bumblebee@gmail.com  
 🌐 https://www.bumblebeeinstruments.in
-
----
