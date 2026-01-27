@@ -10,7 +10,7 @@ ScopeX is a lightweight desktop oscilloscope interface designed to help students
 Before installation, please refer to the **general usage manual**:
 
 👉 **General User Manual (PDF)**  
-https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/manual_general.pdf
+https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/Manual_general.pdf
 
 This manual covers:
 - System overview
