@@ -7,15 +7,22 @@ ScopeX is a lightweight desktop oscilloscope interface designed to help students
 
 ## 📘 Documentation
 
-To ensure a smooth setup, please refer to the appropriate manual for your version:
+Before installation, please refer to the **general usage manual**:
 
 ### 1. General Overview (Start Here)
-👉 **[General User Manual (PDF)](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/Manual_general.pdf)** *Covers hardware concepts, signal acquisition flow, and measurement features.*
+👉 **[General User Manual (PDF)](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/Manual_general.pdf)** This manual covers:
+- System overview
+- Hardware concepts
+- Signal acquisition flow
+- Measurement and analysis features  
+*(No operating-system or software-specific instructions)*
 
 ### 2. Installation & Setup Guides
-These manuals are included in the software packages, but you can access them directly here:
-* 📄 **[Windows (VB.NET) Setup Guide]((https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/ScopeXVB.NET/Installation_Manual.pdf))**  ,
-* 📄 **[Linux (Qt Beta) Setup Guide](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/QT_Linux/share/Installation_Manual.pdf)** ---
+Separate **installation and setup manuals** are provided **inside each software version** (VB.NET, Qt Windows, Qt Linux) and should be followed for platform-specific steps. You can also access them directly here:
+- 📄 **[Windows (VB.NET) Setup Guide](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/ScopeXVB.NET/Installation_Manual.pdf)**
+- 📄 **[Linux (Qt) Setup Guide](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/QT_Linux/share/Installation_Manual.pdf)**
+
+---
 
 ## 🔽 Downloads
 
@@ -24,25 +31,30 @@ All ScopeX software downloads are managed via **GitHub Releases**.
 👉 **[Go to Releases Page](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases)**
 
 ### ✅ Stable Release – VB.NET (Windows)
-* **Best for:** General Windows users.
-* **Status:** Fully tested and stable.
-* 📦 **Download:** Look for `ScopeX_VB_NET.zip` in Releases.
+- Recommended for **Windows users**
+- Fully tested and stable
+- Distributed as a single ZIP package
+- 📦 **[Download ScopeXVB.NET.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/VB.NET-v1/ScopeXVB.NET.zip)**
 
-### 🧪 Beta Releases – Qt GUI (Cross-Platform)
-The next-generation ScopeX GUI is under active development.
-* 🪟 **Windows:** Download `ScopeX_Qt_Windows.zip`
-* 🐧 **Linux:** Download `ScopeX_Qt_Linux.tar.gz` (Now Available!)
-* ⚠️ *Beta builds are updated every 1–2 weeks and may contain bugs.*
+### 🧪 Latest Release – Qt GUI (Cross-Platform)
+The next-generation ScopeX GUI is under active development using **Qt**.
+- 🪟 **Windows** → `QT-Windows` (Coming Soon)
+- 🐧 **Linux** → `QT-Linux` (Stable version on Linux)
+- 📦 **[Download QT_Linux.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-L/QT_Linux.zip)**
+- 🔄 Beta builds are updated every **1–2 weeks**
+- ⚠️ These builds are experimental and may contain bugs
 
 ---
 
 ## ⚠️ Important Download Note
 
-Each release page contains auto-generated files:
-* `Source code (zip)`
-* `Source code (tar.gz)`
+Each release page also contains auto-generated files:
+- `Source code (zip)`
+- `Source code (tar.gz)`
 
-**Do NOT use these files.** They do not contain the compiled executable. Please download only the explicitly named ZIP or TAR packages provided by Bumblebee Instruments.
+These files are generated automatically by GitHub and **are NOT usable ScopeX builds**.
+
+✔ Please download **only the explicitly named ZIP packages** provided by Bumblebee Instruments (e.g., `ScopeXVB.NET.zip` or `QT_Linux.zip`).
 
 ---
 
