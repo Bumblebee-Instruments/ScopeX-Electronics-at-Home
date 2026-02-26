@@ -18,9 +18,8 @@ Before installation, please refer to the **general usage manual**:
 *(No operating-system or software-specific instructions)*
 
 ### 2. Installation & Setup Guides
-Separate **installation and setup manuals** are provided **inside each software version** (VB.NET, Qt Windows, Qt Linux). Access them directly here:
+Separate **installation and setup manuals** are provided **inside each software version** (VB.NET, Qt Linux). Access them directly here:
 - 📄 **[Windows (VB.NET) Setup Guide](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/ScopeXVB.NET/Installation_Manual.pdf)**
-- 📄 **[Windows (Qt) Setup Guide](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/QT-Windows/Installation_Manual.pdf)**
 - 📄 **[Linux (Qt) Setup Guide](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/QT_Linux/share/Installation_Manual.pdf)**
 
 ---
