@@ -36,7 +36,7 @@ All ScopeX software downloads are managed via **GitHub Releases**.
 
 ### 🧪 Latest Releases – Qt GUI (Cross-Platform)
 The next-generation ScopeX GUI built with **Qt**. 
-- 🪟 **Windows** → **[Download QT-Windows.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-W/QT-Windows.zip)** (New Pre-release)
+- 🪟 **Windows** → **[Download QT-Windows.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-W/QT-Windows.zip)** (Stable on Windows)
 - 🐧 **Linux** → **[Download QT-Linux.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-L/QT-Linux.zip)** (Stable on Linux)
 - 🔄 Beta builds are updated every **1–2 weeks**.
 - ⚠️ These builds are experimental and may contain bugs.
