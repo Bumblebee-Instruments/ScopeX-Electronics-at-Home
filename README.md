@@ -1,82 +1,62 @@
-# 🚀 ScopeX – Electronics at Home  
-*by Bumblebee Instruments*
+# 🚀 ScopeX – Electronics at Home
+*Developed by Bumblebee Instruments*
 
-ScopeX is a lightweight desktop oscilloscope interface designed to help students, hobbyists, and professionals visualize and analyze electrical signals with ease.
+ScopeX is a lightweight, cross-platform desktop oscilloscope interface designed to empower students, hobbyists, and professionals to visualize, analyze, and measure electrical signals with precision and ease.
 
 ---
 
 ## 📘 Documentation
 
-Before installation, please refer to the **general usage manual**:
+To ensure a smooth experience, our documentation is divided into three dedicated manuals. Please refer to the guide that best suits your needs:
 
-### 1. General Overview (Start Here)
-👉 **[General User Manual (PDF)](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/Manual_general.pdf)** This manual covers:
-- System overview
-- Hardware concepts
-- Signal acquisition flow
-- Measurement and analysis features  
-*(No operating-system or software-specific instructions)*
-
-### 2. Installation & Setup Guides
-Separate **installation and setup manuals** are provided **inside each software version** (VB.NET, Qt Linux). Access them directly here:
-- 📄 **[Windows (VB.NET) Setup Guide](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/ScopeXVB.NET/Installation_Manual.pdf)**
-- 📄 **[Linux (Qt) Setup Guide](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/raw/main/QT_Linux/share/Installation_Manual.pdf)**
+* **[User Manual](link-to-user-manual)**: A comprehensive guide covering the system overview, hardware concepts, signal acquisition flow, and measurement features. (Platform-independent)
+* **[Application Manual](link-to-application-manual)**: Step-by-step instructions for installing, configuring, and navigating the ScopeX software on your specific operating system (Windows, macOS, or Linux).
+* **[Technical Manual](link-to-technical-manual)**: In-depth technical specifications, communication protocols, source code architecture, and troubleshooting for developers and advanced users.
 
 ---
 
 ## 🔽 Downloads
 
-All ScopeX software downloads are managed via **GitHub Releases**.
-
-👉 **[Go to Releases Page](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases)**
-
-### ✅ Stable Release – VB.NET (Windows)
-- Recommended for **Windows users** seeking the legacy stable build.
-- 📦 **[Download ScopeXVB.NET.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/VB.NET-v1/ScopeXVB.NET.zip)**
+All official ScopeX releases are managed via **[GitHub Releases](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases)**. 
 
 ### 🧪 Latest Releases – Qt GUI (Cross-Platform)
-The next-generation ScopeX GUI built with **Qt**. 
-- 🪟 **Windows** → **[Download QT-Windows.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-W/QT-Windows.zip)** (Stable on Windows)
-- 🐧 **Linux** → **[Download QT-Linux.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-L/QT-Linux.zip)** (Stable on Linux)
-- 🔄 Beta builds are updated every **1–2 weeks**.
-- ⚠️ These builds are experimental and may contain bugs.
+The next-generation ScopeX GUI built with **Qt**, offering a unified experience across all major operating systems. Beta builds are updated every 1–2 weeks.
 
----
+* 🪟 **Windows** → **[Download QT-Windows.zip](link-to-windows-zip)**
+* 🍎 **macOS** → **[Download QT-macOS.zip](link-to-macos-zip)** *(Requires macOS 11.0+)*
+* 🐧 **Linux** → **[Download QT-Linux.zip](link-to-linux-zip)**
 
-## ⚠️ Important Download Note
+### ✅ Legacy Release – VB.NET (Windows)
+A stable, legacy build strictly for Windows environments.
+* 📦 **[Download ScopeXVB.NET.zip](link-to-vb-zip)**
 
-Each release page also contains auto-generated files:
-- `Source code (zip)`
-- `Source code (tar.gz)`
-
-These files are generated automatically by GitHub and **are NOT usable ScopeX builds**.
-
-✔ Please download **only the explicitly named ZIP packages** provided by Bumblebee Instruments (e.g., `ScopeXVB.NET.zip`, `QT-Windows.zip`, or `QT_Linux.zip`).
+> **⚠️ Important Note on Downloads**
+> GitHub automatically generates `Source code (zip)` and `Source code (tar.gz)` files on the releases page. **These are raw source files, not executable applications.** Please ensure you download the explicitly named ZIP packages provided by Bumblebee Instruments (e.g., `QT-macOS.zip` or `QT-Windows.zip`).
 
 ---
 
 ## 📄 Repository Structure
 
-| Folder / File          | Description                                      |
-|------------------------|--------------------------------------------------|
-| `manual_general.pdf`   | Platform-independent general user manual          |
-| `ScopeXVB.NET/`         | Legacy VB.NET Windows version                    |
-| `QT-Windows/`          | Qt-based GUI for Windows (Latest)                |
-| `QT-Linux/`            | Qt-based GUI for Linux (Latest)                  |
-| `README.md`            | Project overview and download instructions       |
+| Directory / File | Description |
+| :--- | :--- |
+| `docs/` | Contains the Application, User, and Technical manuals. |
+| `QT-Windows/` | Source and build configurations for the Windows Qt GUI. |
+| `QT-macOS/` | Source and build configurations for the macOS Qt GUI. |
+| `QT-Linux/` | Source and build configurations for the Linux Qt GUI. |
+| `ScopeXVB.NET/` | Legacy VB.NET Windows application source code. |
 
 ---
 
 ## 🛠️ Contributing & Feedback
 
-We welcome feedback and contributions from the community.
+ScopeX is driven by community feedback. We welcome bug reports, feature requests, and pull requests.
 
-- 🐞 **[Report issues](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/issues)**
-- 🔧 **[Submit pull requests](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/pulls)**
+* 🐞 **[Report an Issue](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/issues)**
+* 🔧 **[Submit a Pull Request](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/pulls)**
 
 ---
 
 ## 📬 Contact
 
-**Bumblebee Instruments** 📧 instruments.bumblebee@gmail.com  
+**Bumblebee Instruments** 📧 [instruments.bumblebee@gmail.com](mailto:instruments.bumblebee@gmail.com)  
 🌐 [www.bumblebeeinstruments.in](https://www.bumblebeeinstruments.in)
