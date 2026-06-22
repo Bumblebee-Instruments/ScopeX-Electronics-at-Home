@@ -7,11 +7,13 @@ ScopeX is a lightweight, cross-platform desktop oscilloscope interface designed 
 
 ## 📘 Documentation
 
-To ensure a smooth experience, our documentation is divided into three dedicated manuals. Please refer to the guide that best suits your needs:
+To ensure a smooth experience, our documentation is divided into three dedicated manuals. 
 
-* **[User Manual](link-to-user-manual)**: A comprehensive guide covering the system overview, hardware concepts, signal acquisition flow, and measurement features. (Platform-independent)
-* **[Application Manual](link-to-application-manual)**: Step-by-step instructions for installing, configuring, and navigating the ScopeX software on your specific operating system (Windows, macOS, or Linux).
-* **[Technical Manual](link-to-technical-manual)**: In-depth technical specifications, communication protocols, source code architecture, and troubleshooting for developers and advanced users.
+👉 **[Access the ScopeX Documentation Library here](./docs/)**
+
+* 📖 **[User Manual](./docs/User_Manual.pdf):** Core concepts, system overview, and signal acquisition features. (Platform-independent)
+* ⚙️ **[Application Manual](./docs/Application_Manual.pdf):** Step-by-step instructions for installing and configuring the software on Windows, macOS, and Linux.
+* 🛠️ **[Technical Manual](./docs/Technical_Manual.pdf):** In-depth technical specifications, communication protocols, and source code architecture for developers.
 
 ---
 
@@ -22,13 +24,13 @@ All official ScopeX releases are managed via **[GitHub Releases](https://github.
 ### 🧪 Latest Releases – Qt GUI (Cross-Platform)
 The next-generation ScopeX GUI built with **Qt**, offering a unified experience across all major operating systems. Beta builds are updated every 1–2 weeks.
 
-* 🪟 **Windows** → **[Download QT-Windows.zip](link-to-windows-zip)**
-* 🍎 **macOS** → **[Download QT-macOS.zip](link-to-macos-zip)** *(Requires macOS 11.0+)*
-* 🐧 **Linux** → **[Download QT-Linux.zip](link-to-linux-zip)**
+* 🪟 **Windows** → **[Download QT-Windows.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-W/QT-Windows.zip)**
+* 🍎 **macOS** → **[Download QT-macOS.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/latest)** *(Requires macOS 11.0+)*
+* 🐧 **Linux** → **[Download QT-Linux.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-L/QT-Linux.zip)**
 
 ### ✅ Legacy Release – VB.NET (Windows)
 A stable, legacy build strictly for Windows environments.
-* 📦 **[Download ScopeXVB.NET.zip](link-to-vb-zip)**
+* 📦 **[Download ScopeXVB.NET.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/VB.NET-v1/ScopeXVB.NET.zip)**
 
 > **⚠️ Important Note on Downloads**
 > GitHub automatically generates `Source code (zip)` and `Source code (tar.gz)` files on the releases page. **These are raw source files, not executable applications.** Please ensure you download the explicitly named ZIP packages provided by Bumblebee Instruments (e.g., `QT-macOS.zip` or `QT-Windows.zip`).
