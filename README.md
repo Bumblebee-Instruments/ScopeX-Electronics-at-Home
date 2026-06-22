@@ -11,9 +11,9 @@ To ensure a smooth experience, our documentation is divided into three dedicated
 
 👉 **[Access the ScopeX Documentation Library here](./docs/)**
 
-* 📖 **[User Manual](./docs/ScopeX_Setup_Manual.pdf):** Core concepts, system overview, and signal acquisition features. (Platform-independent)
-* ⚙️ **[Application Manual](./docs/ScopeX_Application_Manual.pdf):** Step-by-step instructions for installing and configuring the software on Windows, macOS, and Linux.
-* 🛠️ **[Technical Manual](./docs/ScopeX_Technical_Manual.pdf):** In-depth technical specifications, communication protocols, and source code architecture for developers.
+* 📖 **[Setup Manual](./docs/ScopeX_Setup_Manual.pdf):** Covers all the setup required for running the application in Windows, Linux, macOS.
+* ⚙️ **[Application Manual](./docs/ScopeX_Application_Manual.pdf):** Step-by-step instructions and breakdown of the software on Windows, macOS, and Linux.
+* 🛠️ **[Technical Manual](./docs/ScopeX_Technical_Manual.pdf):** Technical details about using the Kit to build circuits.
 
 ---
 
@@ -25,7 +25,7 @@ All official ScopeX releases are managed via **[GitHub Releases](https://github.
 The next-generation ScopeX GUI built with **Qt**, offering a unified experience across all major operating systems. Beta builds are updated every 1–2 weeks.
 
 * 🪟 **Windows** → **[Download QT-Windows.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-W/QT-Windows.zip)**
-* 🍎 **macOS** → **[Download QT-macOS.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/latest)** *(Requires macOS 11.0+)*
+* 🍎 **macOS** → **[Download QT-macOS.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-M/QT-Mac.zip)** *(Requires macOS 11.0+)*
 * 🐧 **Linux** → **[Download QT-Linux.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-L/QT-Linux.zip)**
 
 ### ✅ Legacy Release – VB.NET (Windows)
@@ -50,11 +50,11 @@ A stable, legacy build strictly for Windows environments.
 ---
 
 ## 🛠️ Contributing & Feedback
-
 ScopeX is driven by community feedback. We welcome bug reports, feature requests, and pull requests.
 
 * 🐞 **[Report an Issue](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/issues)**
 * 🔧 **[Submit a Pull Request](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/pulls)**
+* 📄 **[Fill out this Form](https://docs.google.com/forms/d/e/1FAIpQLSf-eewBGk3CUaTcuvmBbU6Pxg-ao2MYi4oeGCo3Ofb-bxNo3A/viewform)**
 
 ---
 
