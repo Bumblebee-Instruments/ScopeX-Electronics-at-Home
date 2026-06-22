@@ -11,7 +11,7 @@ To ensure a smooth experience, our documentation is divided into three dedicated
 
 👉 **[Access the ScopeX Documentation Library here](./docs/)**
 
-* 📖 **[User Manual](./docs/ScopeX_User_Manual.pdf):** Core concepts, system overview, and signal acquisition features. (Platform-independent)
+* 📖 **[User Manual](./docs/ScopeX_Setup_Manual.pdf):** Core concepts, system overview, and signal acquisition features. (Platform-independent)
 * ⚙️ **[Application Manual](./docs/ScopeX_Application_Manual.pdf):** Step-by-step instructions for installing and configuring the software on Windows, macOS, and Linux.
 * 🛠️ **[Technical Manual](./docs/ScopeX_Technical_Manual.pdf):** In-depth technical specifications, communication protocols, and source code architecture for developers.
 
