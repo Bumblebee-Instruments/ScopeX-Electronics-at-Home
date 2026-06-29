@@ -25,7 +25,7 @@ All official ScopeX releases are managed via **[GitHub Releases](https://github.
 The next-generation ScopeX GUI built with **Qt**, offering a unified experience across all major operating systems. Beta builds are updated every 1–2 weeks.
 
 * 🪟 **Windows** → **[Download QT-Windows.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-W/QT-Windows.zip)**
-* 🍎 **macOS** → **[Download QT-macOS.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-M/QT-Mac.zip)** *(Requires macOS 11.0+)*
+* 🍎 **macOS** → **[Download QT-macOS.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-M/QT-macOS.zip)** *(Requires macOS 11.0+)*
 * 🐧 **Linux** → **[Download QT-Linux.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-L/QT-Linux.zip)**
 
 ### ✅ Legacy Release – VB.NET (Windows)
