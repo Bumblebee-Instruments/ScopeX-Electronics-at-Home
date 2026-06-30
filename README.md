@@ -17,6 +17,16 @@ To ensure a smooth experience, our documentation is divided into three dedicated
 
 ---
 
+## 🔌 Drivers
+
+To ensure your system can properly communicate with the ScopeX hardware, Windows users must install the necessary USB drivers prior to running the application.
+
+* 🪟 **Windows Drivers** → **[Download Drivers.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-drivers/Drivers.zip)**
+
+> **📝 Installation Note:** > If you have not used any ATXMEGA or related boards with your PC then, Please extract `Drivers.zip` and install the drivers *before* connecting your ScopeX kit to your PC. For step-by-step installation instructions, please refer to the **[Setup Manual](./docs/ScopeX_Setup_Manual.pdf)**.
+
+---
+
 ## 🔽 Downloads
 
 All official ScopeX releases are managed via **[GitHub Releases](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases)**. 
