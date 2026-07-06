@@ -36,8 +36,7 @@ The next-generation ScopeX GUI built with **Qt**, offering a unified experience 
 
 * 🪟 **Windows** → **[Download QT-Windows.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-W/QT-Windows.zip)**
 * 🍎 **macOS** → **[Download QT-macOS.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-M/QT-macOS.zip)** *(Requires macOS 11.0+)*
-* 🐧 **Linux** → **[Download QT-Linux.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-L/QT-Linux.zip)**  
-              *   **[Download Scope-X-x86_64.AppImage](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-L/Scope-X-x86_64.AppImage)**
+* 🐧 **Linux** → **[Download Scope-X-x86_64.AppImage](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/QT-L/Scope-X-x86_64.AppImage)**
 ### ✅ Legacy Release – VB.NET (Windows)
 A stable, legacy build strictly for Windows environments.
 * 📦 **[Download ScopeXVB.NET.zip](https://github.com/Bumblebee-Instruments/ScopeX-Electronics-at-Home/releases/download/VB.NET-v1/ScopeXVB.NET.zip)**
